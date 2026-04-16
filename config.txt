@@ -1,0 +1,8 @@
+HorarioApertura=09:00
+HorarioCierre=20:00
+DuracionPorDefecto=60
+AntelacionMaxima=7
+RutaBD=datos/
+RutaLogs=logs/
+AdminUser=admin
+AdminPass=admin
